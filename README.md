@@ -1,2 +1,2 @@
-# sdss
+# SDSS
 SDSS - Seats distancing software support
