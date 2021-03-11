@@ -1,5 +1,4 @@
-# SDSS
-SDSS - Seats distancing software support
+# SDSS - Seats distancing software support
 
 ### Historical background
 
